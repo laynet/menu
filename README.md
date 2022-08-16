@@ -19,7 +19,7 @@ Menu app that can be filtered by category made with create react app and react h
 
 ### Links
 
-- Live Site URL: [Deployed with netlify](https://gilded-pie-457b45.netlify.app/)
+- Live Site URL: [Deployed with netlify](https://tangerine-travesseiro-136ea1.netlify.app/)
 
 ## My process
 
